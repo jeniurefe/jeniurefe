@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenipher Ureña</h1>
-<h3 align="center">I'm a professional, passionate, technology-driven and innovation-driven, results-oriented woman with experience focused on software development. Noted for my analytical approach and teamwork. I am responsible, detail-oriented, communicator and proposed to solve different problems and provide solutions.</h3>
+<h3 align="center">I am a technology-driven and innovation-oriented professional with a passion for continuous learning. Throughout my previous work experience, I have excelled as a results-oriented and responsible team player, recognized for my problem-solving abilities. My strengths include analytical thinking, collaboration, and proficiency in both Front-End and Back-End technologies such as HTML, JavaScript, and Python. I am actively seeking job opportunities with companies that support my professional growth.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
