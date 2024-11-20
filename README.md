@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenipher Ureña</h1>
-<h3 align="center">I am a technology-driven and innovation-oriented professional with a passion for continuous learning</h3>
+<h3 align="center">I am a technology-driven and innovation-oriented professional with a passion for continuous learning. I have excelled as a results-oriented and responsible team player, recognized for my problem-solving abilities.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
